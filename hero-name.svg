@@ -22,11 +22,6 @@
 
   <rect width="900" height="210" fill="#0D1117"/>
 
-  <!-- ================= GLOWING ORB (top-right) ================= -->
-  <circle cx="840" cy="38" r="16" fill="url(#orbGrad)" filter="url(#softGlow)">
-    <animate attributeName="opacity" values="0.5;1;0.5" dur="2.4s" repeatCount="indefinite"/>
-    <animate attributeName="r" values="14;18;14" dur="2.4s" repeatCount="indefinite"/>
-  </circle>
 
   <!-- ================= GREETING (main glowing line, constant) ================= -->
   <text x="450" y="100" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif"
@@ -61,9 +56,3 @@
       <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8333;0.8433;0.99;1" dur="15s" repeatCount="indefinite"/>
     </text>
   </g>
-
-  <!-- ================= DRIFTING CURSOR DOT ================= -->
-  <circle r="3" fill="#00D9FF" opacity="0.55">
-    <animateMotion path="M40,190 Q450,175 860,190" dur="11s" repeatCount="indefinite"/>
-  </circle>
-</svg>
