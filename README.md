@@ -1,8 +1,6 @@
 <!-- ================================================================== -->
 <!-- HERO -->
 <!-- ================================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:7C3AED&height=180&section=header&animation=fadeIn" width="100%" />
-
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/areeba-zaka59/areeba-zaka59/main/hero-name.svg" width="100%" />
