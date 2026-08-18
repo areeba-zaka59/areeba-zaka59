@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Areeba+Zaka;AI%2FML+Developer;Agentic+AI+Explorer;Full-Stack+Developer;Problem+Solver" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/areeba-zaka59/areeba-zaka59/main/hero-name.svg" width="100%" />
 
 <br/>
 
@@ -15,12 +15,16 @@
 
 <a href="https://linkedin.com/in/areeba-zaka59"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:areebazaka59@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://areebazaka-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://lnkd.in/dPrDGdFh"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/areeba-zaka59"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/status-actively--building-00D9FF?style=flat-square" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/areeba-zaka59/areeba-zaka59/main/skills-marquee.svg" width="100%" />
 
 </div>
 
