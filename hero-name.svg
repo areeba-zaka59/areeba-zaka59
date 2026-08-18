@@ -20,30 +20,35 @@
     Hi, I'm Areeba Zaka 👋
   </text>
 
-  <g>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      Python
-      <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.1567;0.1667;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      TensorFlow
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.1667;0.1767;0.3233;0.3333;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      LangChain
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.3333;0.3433;0.49;0.5;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      React
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.51;0.6567;0.6667;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      Agentic AI
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6667;0.6767;0.8233;0.8333;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-    <text x="450" y="160" text-anchor="middle" font-family="'Fira Code', monospace" font-size="30" font-weight="600" fill="#00D9FF">
-      Computer Vision
-      <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.8333;0.8433;0.99;1" dur="15s" repeatCount="indefinite"/>
-    </text>
-  </g>
+  <svg x="0" y="145" width="900" height="46" viewBox="0 0 900 46">
+    <g>
+      <rect x="0.0" y="0" width="98.0" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="49.0" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">AI/ML</text>
+      <rect x="114.0" y="0" width="135.2" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="181.6" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">FRONTEND</text>
+      <rect x="265.2" y="0" width="122.8" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="326.6" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">BACKEND</text>
+      <rect x="404.0" y="0" width="160.0" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="484.0" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">FULL STACK</text>
+      <rect x="580.0" y="0" width="122.8" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="641.4" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">WEB DEV</text>
+      <rect x="718.8" y="0" width="197.2" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="817.4" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">AI AUTOMATION</text>
+
+      <rect x="932.0" y="0" width="98.0" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="981.0" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">AI/ML</text>
+      <rect x="1046.0" y="0" width="135.2" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="1113.6" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">FRONTEND</text>
+      <rect x="1197.2" y="0" width="122.8" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="1258.6" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">BACKEND</text>
+      <rect x="1336.0" y="0" width="160.0" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="1416.0" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">FULL STACK</text>
+      <rect x="1512.0" y="0" width="122.8" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="1573.4" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">WEB DEV</text>
+      <rect x="1650.8" y="0" width="197.2" height="42" rx="21" fill="#132030" stroke="#00D9FF" stroke-width="1.4"/>
+      <text x="1749.4" y="28" text-anchor="middle" font-family="'Fira Code', monospace" font-size="20" font-weight="700" fill="#00D9FF" letter-spacing="1">AI AUTOMATION</text>
+
+      <animateTransform attributeName="transform" type="translate" from="0,0" to="-932,0" dur="14s" repeatCount="indefinite"/>
+    </g>
+  </svg>
 </svg>
