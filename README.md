@@ -346,7 +346,10 @@ Built an agent that researches trending AI/tech topics daily and auto-generates 
 <div align="center">
 
 <br/>
+<img src="https://github-readme-stats.vercel.app/api?username=areeba-zaka59&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areeba-zaka59&layout=pie&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" width="48%" />
 
+<br/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-zaka59&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=7C3AED&hide_border=true" width="95%" />
 
 </div>
