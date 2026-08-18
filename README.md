@@ -16,17 +16,7 @@
 <a href="https://lnkd.in/dPrDGdFh"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/areeba-zaka59"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<br/><br/>
-
-<img src="https://img.shields.io/badge/status-actively--building-00D9FF?style=flat-square" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/areeba-zaka59/areeba-zaka59/main/skills-marquee.svg" width="100%" />
-
 </div>
-
-<br/>
 
 <!-- ================================================================== -->
 <!-- ABOUT -->
