@@ -163,8 +163,8 @@ I'm an Artificial Intelligence undergraduate passionate about AI/ML, Deep Learni
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-
-### 🤖 AI/ML Internship
+  
+### 🤖 AI/ML Internship — Arch Technologies
 <img src="https://img.shields.io/badge/●-ONGOING-2EA043?style=flat-square" />
 
 Practical machine learning tasks — classification, model development, and evaluation.
@@ -204,11 +204,20 @@ Built an agent that researches trending AI/tech topics daily and auto-generates 
 </details>
 
 <details>
-<summary><b>Week 3</b> — ⏳ Upcoming</summary>
+<summary><b>Week 3</b> — ✅ RAG-Powered Customer Support Agent</summary>
+<br/>
+Built a retrieval-augmented generation (RAG) customer support bot grounded in Nexariza AI's real website content — answers questions using only the actual knowledge base, cites its sources, and escalates to a human instead of guessing when it's uncertain.
+<br/><br/>
+<code>Python</code> <code>RAG</code> <code>ChromaDB</code> <code>Streamlit</code>
+<br/>
+<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week3-rag-support-bot">Repository →</a>
+</details>
+
+<details>
+<summary><b>Week 4</b> — ⏳ Upcoming</summary>
 <br/>
 [ADD TASK NAME]
 </details>
-
 [View internship repo →](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship)
 
 </td>
