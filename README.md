@@ -172,7 +172,8 @@ Practical machine learning tasks — classification, model development, and eval
 **Completed work**
 - ✅ [Email Spam Classification](https://github.com/areeba-zaka59/email-spam-classifier)
 - ✅ [MNIST Digit Recognition](https://github.com/areeba-zaka59/mnist-digit-recognition)
-
+- ✅ [California Housing Price Prediction](https://github.com/areeba-zaka59/california-housing-price-prediction)
+- ✅ [Iris Flower Classification](https://github.com/areeba-zaka59/iris-flower-classification)
 <sub>New tasks are added here as they're completed.</sub>
 
 </td>
