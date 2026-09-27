@@ -162,14 +162,14 @@ I'm an Artificial Intelligence undergraduate passionate about AI/ML, Deep Learni
 <!-- ================================================================== -->
 <!-- INTERNSHIP & ONGOING WORK -->
 <!-- ================================================================== -->
-## 💼 Internship & Ongoing Work
+## 💼 Internship 
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
   
 ### 🤖 AI/ML Internship — Arch Technologies
-<img src="https://img.shields.io/badge/●-ONGOING-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/●-COMPLETED-1F6FEB?style=flat-square" />
 
 Practical machine learning tasks — classification, model development, and evaluation.
 
