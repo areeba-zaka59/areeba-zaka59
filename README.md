@@ -183,65 +183,14 @@ Practical machine learning tasks — classification, model development, and eval
 
 6-week agentic AI internship — building agent-driven systems and workflows. All 6 weeks complete.
 
-<details>
-<summary><b>Week 1</b> — ✅ Foundation & Setup</summary>
-<br/>
-Built a working <b>ReAct Agent</b> with tool use — connected LLM APIs (OpenAI/Anthropic) and gave it live web search + Q&A capability using LangChain.
-<br/><br/>
-<code>Python</code> <code>LangChain</code> <code>ReAct Agent</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week1-react-agent">Repository →</a>
-</details>
+**Completed work**
+- ✅ [Week 1 — Foundation & Setup](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week1-react-agent)
+- ✅ [Week 2 — Daily Content Posting Agent](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week2-daily-posting-agent)
+- ✅ [Week 3 — RAG-Powered Customer Support Agent](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week3-rag-support-bot)
+- ✅ [Week 4 — Multi-Agent Research System](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week4-research-engine)
+- ✅ [Week 5 — Automated Lead Qualification Agent](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week5-lead-intelligence-agent)
+- ✅ [Week 6 — Nexariza Command Center (Capstone)](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week6-command-center)
 
-<details>
-<summary><b>Week 2</b> — ✅ Daily Content Posting Agent</summary>
-<br/>
-Built an agent that researches trending AI/tech topics daily and auto-generates platform-specific content — LinkedIn posts, Instagram captions, and Twitter/X threads — with Nexariza branding, output as structured JSON.
-<br/><br/>
-<code>LangChain</code> <code>Tavily Search</code> <code>GPT-4o</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week2-daily-posting-agent">Repository →</a>
-</details>
-
-<details>
-<summary><b>Week 3</b> — ✅ RAG-Powered Customer Support Agent</summary>
-<br/>
-Built a retrieval-augmented generation (RAG) customer support bot grounded in Nexariza AI's real website content — answers questions using only the actual knowledge base, cites its sources, and escalates to a human instead of guessing when it's uncertain.
-<br/><br/>
-<code>Python</code> <code>RAG</code> <code>ChromaDB</code> <code>Streamlit</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week3-rag-support-bot">Repository →</a>
-</details>
-
-<details>
-<summary><b>Week 4</b> — ✅ Multi-Agent Research System</summary>
-<br/>
-Built a 4-agent research pipeline (Researcher, Analyst, Writer, Publisher) that investigates a topic and produces a full investigative report — styled as a live newsroom, with a safeguard against invented statistics.
-<br/><br/>
-<code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Multi-Agent</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week4-research-engine">Repository →</a>
-</details>
-
-<details>
-<summary><b>Week 5</b> — ✅ Automated Lead Qualification Agent</summary>
-<br/>
-Built a lead-intelligence agent that discovers real companies via live web search, scores each Hot/Warm/Cold based on public AI-readiness signals, and drafts personalized, non-templated outreach messages.
-<br/><br/>
-<code>Python</code> <code>LangChain</code> <code>Web Search</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week5-lead-intelligence-agent">Repository →</a>
-</details>
-
-<details>
-<summary><b>Week 6</b> — ✅ Nexariza Command Center (Capstone)</summary>
-<br/>
-Built the capstone project — a unified AI business workspace combining six tools (Market Research, Content Generation, Email Drafting, Meeting Summary, Competitor Analysis, Trend Monitoring), each with its own visual identity inside one cohesive design system.
-<br/><br/>
-<code>Python</code> <code>LangChain</code> <code>Streamlit</code> <code>Capstone</code>
-<br/>
-<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week6-command-center">Repository →</a>
-</details>
 [View internship repo →](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship)
 
 </td>
