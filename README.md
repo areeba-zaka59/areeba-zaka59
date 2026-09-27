@@ -51,7 +51,11 @@ I'm an Artificial Intelligence undergraduate passionate about AI/ML, Deep Learni
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /><br/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" /><br/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/Optuna-0078D4?style=flat-square" /><br/>
+<img src="https://img.shields.io/badge/SHAP-FF6F61?style=flat-square" />
 
 </td>
 <td width="33%" valign="top">
