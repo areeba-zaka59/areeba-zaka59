@@ -325,22 +325,6 @@ Practical machine learning tasks — classification, model development, and eval
 <br/>
 
 <!-- ================================================================== -->
-<!-- GITHUB ANALYTICS -->
-<!-- ================================================================== -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<br/>
-
-<br/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=areeba-zaka59&theme=react-dark&bg_color=0D1117&color=00D9FF&line=00D9FF&point=7C3AED&hide_border=true" width="95%" />
-
-</div>
-
-<br/>
-
-<!-- ================================================================== -->
 <!-- CURRENTLY BUILDING & LEARNING -->
 <!-- ================================================================== -->
 ## 🌱 Currently Building & Learning
