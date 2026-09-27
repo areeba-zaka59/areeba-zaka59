@@ -179,9 +179,9 @@ Practical machine learning tasks — classification, model development, and eval
 <td width="50%" valign="top">
 
 ### 🌀 AI Agentic Internship — Nexariza
-<img src="https://img.shields.io/badge/●-ONGOING-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/●-COMPLETED-1F6FEB?style=flat-square" />
 
-6-week agentic AI internship — building agent-driven systems and workflows.
+6-week agentic AI internship — building agent-driven systems and workflows. All 6 weeks complete.
 
 <details>
 <summary><b>Week 1</b> — ✅ Foundation & Setup</summary>
@@ -214,9 +214,33 @@ Built a retrieval-augmented generation (RAG) customer support bot grounded in Ne
 </details>
 
 <details>
-<summary><b>Week 4</b> — ⏳ Upcoming</summary>
+<summary><b>Week 4</b> — ✅ Multi-Agent Research System</summary>
 <br/>
-[ADD TASK NAME]
+Built a 4-agent research pipeline (Researcher, Analyst, Writer, Publisher) that investigates a topic and produces a full investigative report — styled as a live newsroom, with a safeguard against invented statistics.
+<br/><br/>
+<code>Python</code> <code>LangGraph</code> <code>LangChain</code> <code>Multi-Agent</code>
+<br/>
+<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week4-research-engine">Repository →</a>
+</details>
+
+<details>
+<summary><b>Week 5</b> — ✅ Automated Lead Qualification Agent</summary>
+<br/>
+Built a lead-intelligence agent that discovers real companies via live web search, scores each Hot/Warm/Cold based on public AI-readiness signals, and drafts personalized, non-templated outreach messages.
+<br/><br/>
+<code>Python</code> <code>LangChain</code> <code>Web Search</code>
+<br/>
+<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week5-lead-intelligence-agent">Repository →</a>
+</details>
+
+<details>
+<summary><b>Week 6</b> — ✅ Nexariza Command Center (Capstone)</summary>
+<br/>
+Built the capstone project — a unified AI business workspace combining six tools (Market Research, Content Generation, Email Drafting, Meeting Summary, Competitor Analysis, Trend Monitoring), each with its own visual identity inside one cohesive design system.
+<br/><br/>
+<code>Python</code> <code>LangChain</code> <code>Streamlit</code> <code>Capstone</code>
+<br/>
+<a href="https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship/tree/main/week6-command-center">Repository →</a>
 </details>
 [View internship repo →](https://github.com/areeba-zaka59/Nexariza-Agentic-AI-internship)
 
